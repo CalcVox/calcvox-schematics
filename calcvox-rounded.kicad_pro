@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.0,
-          "height": 3.0,
-          "width": 3.0
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -392,7 +392,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "calcvox.kicad_pro",
+    "filename": "calcvox-rounded.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -424,11 +424,11 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "calcvox-rounded.cad",
       "idf": "",
       "netlist": "",
       "specctra_dsn": "../junk/calcvox.dsn",
-      "step": "",
+      "step": "calcvox-rounded.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
